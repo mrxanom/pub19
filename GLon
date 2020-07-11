@@ -28,7 +28,7 @@ rm -rf .fff .system_android_l2 ca-bundle.pem cacheFile.txt vmpcloudconfig.json >
 
 sleep 1
 
-echo -e "SAMARA VIP"
+echo -e "XXX"
 
 sleep 1
 
